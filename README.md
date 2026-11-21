@@ -1,6 +1,6 @@
 # Skin Disease Analysis and ML Prediction
 
-## Project Overview
+## Project Overview 
 
 This project focuses on the analysis and classification of six types of skin disorders using Machine Learning techniques. It uses the UCI Dermatology dataset, which contains clinical and histopathological attributes collected from patients.
 
